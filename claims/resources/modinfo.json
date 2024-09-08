@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "claims",
+  "name": "Claims",
+  "authors": [ "KenigVovan" ],
+  "description": "Land protection mod",
+  "version": "4.0.18",
+  "dependencies": {
+    "game": "",
+    "caneconomy": "1.0.6"
+  }
+}
